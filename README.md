@@ -12,11 +12,11 @@ The design is available in the following formats:
 * PDF
 * DXF
 
-Note that if using the PDF the only pieces that are required are the two large and two smaller rectangles in the centre of the page.
+Note design was revised and modified in Illustrator CS5 using PDF as source.
 
 ## Material and cutting
 
-Designed to be laser cut from 3mm clear acrylic.
+Designed to be laser cut from 3mm clear colourless acrylic.
 
 ## Cooling
 
